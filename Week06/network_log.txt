@@ -1,0 +1,10 @@
+[2026-02-17 11:38:15] PING google.com
+PING google.com (142.250.137.101) 56(84) bytes of data.
+64 bytes from pnyyzb-in-f101.1e100.net (142.250.137.101): icmp_seq=1 ttl=115 time=9.57 ms
+64 bytes from pnyyzb-in-f101.1e100.net (142.250.137.101): icmp_seq=2 ttl=115 time=4.12 ms
+64 bytes from pnyyzb-in-f101.1e100.net (142.250.137.101): icmp_seq=3 ttl=115 time=4.63 ms
+
+--- google.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 4.117/6.103/9.566/2.457 ms
+----------------------------------------
